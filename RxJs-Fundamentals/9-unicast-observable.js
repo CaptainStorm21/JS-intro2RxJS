@@ -34,5 +34,10 @@ observable.subscribe ((value)=>{
   
 });
 
+
+
+
+
+
 //here we are looking only in the obseravable
 new Observable( ()=> {});
