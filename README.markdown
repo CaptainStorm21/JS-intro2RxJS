@@ -3,8 +3,8 @@
 
 
 
-Hot Observeable 
+#Hot Observeable 
 A single event streat shared for all subscribers old and new 
 
-Cold Observables
+#Cold Observables
 Event strem recreated for each new subscriber
